@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clister-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/clister-react-app/static/js/main.c93f7a06.chunk.js",
+    "main.js.map": "/clister-react-app/static/js/main.c93f7a06.chunk.js.map",
+    "runtime-main.js": "/clister-react-app/static/js/runtime-main.36fe076c.js",
+    "runtime-main.js.map": "/clister-react-app/static/js/runtime-main.36fe076c.js.map",
+    "static/js/2.6cf4d752.chunk.js": "/clister-react-app/static/js/2.6cf4d752.chunk.js",
+    "static/js/2.6cf4d752.chunk.js.map": "/clister-react-app/static/js/2.6cf4d752.chunk.js.map",
+    "index.html": "/clister-react-app/index.html",
+    "precache-manifest.8451d0a9922bb2f1174605ee347e6662.js": "/clister-react-app/precache-manifest.8451d0a9922bb2f1174605ee347e6662.js",
+    "service-worker.js": "/clister-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/clister-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6cf4d752.chunk.js.LICENSE.txt": "/clister-react-app/static/js/2.6cf4d752.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clister-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fe076c.js",
+    "static/js/2.6cf4d752.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c93f7a06.chunk.js"
+  ]
+}
